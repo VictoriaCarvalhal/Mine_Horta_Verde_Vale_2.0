@@ -1,0 +1,25 @@
+body {
+  padding-top: 50px;
+}
+
+div.frame {
+	margin-top: 15px;
+	border: 2px black solid;
+	padding: 20px;
+}
+
+div.frame h1 {
+	margin: 0 0 10px 0;
+	font-size: 120%;
+}
+
+div.frame h2 {
+	margin: 0 0 10px 0;
+	font-size: 115%;
+}
+
+label.disabled {
+	color: #aaa;
+}
+
+
